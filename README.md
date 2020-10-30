@@ -3,7 +3,7 @@
 <html>
 <body>
 <p> I have a nuanced understadning of the coding language Python 🐍</p>
-<p> For almost a year now I have been hammering down the fundamentals of this programming language as well as expanding my knowledge of Python to do amazing projects for things like data analysis and webscraping </p>
+<p> For almost a year now, I have been hammering down the fundamentals of this programming language as well as expanding my knowledge of Python to do amazing projects for things like data analysis and webscraping </p>
 <p> I also have experience in other programming languages, such as Java and have worked on projects using Arduino as well💾.</p>
 <p> One of my major interests is cyber security. </p>
 <p> I'd be willing to learn any programming language and work to the best of my ability to adapt to it  </p>
